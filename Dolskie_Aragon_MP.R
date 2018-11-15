@@ -118,3 +118,4 @@ compound <- function(p, r, n, t) {
 }
  compound(20000, 0.06, 1, 10)
   
+### This comment was made so I can commit and push in Github the changes.
